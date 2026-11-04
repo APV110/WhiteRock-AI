@@ -1,6 +1,6 @@
-# East Dallas AI - Company Website
+# WhiteRock AI - Company Website
 
-A professional, static website for East Dallas AI, offering affordable AI solutions to help small businesses in East Dallas improve their profit margins.
+A professional, static website for WhiteRock AI, offering affordable AI solutions to help small businesses in East Dallas improve their profit margins.
 
 ## 🎯 Overview
 
@@ -23,7 +23,7 @@ This is a modern, responsive website built with vanilla HTML, CSS, and JavaScrip
 - Call-to-action (`mailto:` link)
 
 ### 2. **Approach** (`our-approach.html`)
-- How East Dallas AI works with local businesses
+- How WhiteRock AI works with local businesses
 - Four-step process: Discovery, Strategy, Development, Optimization
 - Contact call-to-action (`mailto:` link)
 
@@ -38,8 +38,8 @@ This is a modern, responsive website built with vanilla HTML, CSS, and JavaScrip
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/APV110/East-Dallas-AI.git
-cd East-Dallas-AI
+git clone https://github.com/APV110/WhiteRock-AI.git
+cd WhiteRock-AI
 ```
 
 2. **Open in browser:**
@@ -54,7 +54,7 @@ cd East-Dallas-AI
 
 ### File Structure
 ```
-East-Dallas-AI/
+WhiteRock-AI/
 ├── docs/
 │   ├── index.html          # Homepage
 │   ├── our-approach.html          # Approach page
@@ -69,7 +69,7 @@ East-Dallas-AI/
 ### Enable GitHub Pages:
 
 1. **Go to repository settings:**
-   - Navigate to: https://github.com/APV110/East-Dallas-AI/settings
+   - Navigate to: https://github.com/APV110/WhiteRock-AI/settings
 
 2. **Enable Pages:**
    - Go to "Pages" section (left sidebar)
@@ -78,7 +78,7 @@ East-Dallas-AI/
    - Click "Save"
 
 3. **Your site will be live at:**
-   - `https://APV110.github.io/East-Dallas-AI/`
+   - `https://APV110.github.io/WhiteRock-AI/`
 
 ### What happens after deployment:
 - GitHub Pages automatically deploys from the `/docs` folder
@@ -90,7 +90,7 @@ East-Dallas-AI/
 ### 1. **Customize Content:**
 
 Edit the HTML files to update:
-- **Company name and branding** - Change "East Dallas AI" throughout
+- **Company name and branding** - WhiteRock AI
 - **Contact information** - Update the `mailto:` address in `index.html` and `our-approach.html`
 - **Services** - Edit the solution cards in `index.html`
 - **Approach** - Edit the process steps in `our-approach.html`
@@ -112,7 +112,7 @@ Edit `styles.css` to change colors:
 2. Add your logo as `logo.png` or `logo.svg`
 3. Update the navbar in HTML files to include:
    ```html
-   <img src="images/logo.png" alt="East Dallas AI Logo">
+   <img src="images/logo.png" alt="WhiteRock AI Logo">
    ```
 
 ## 📱 Browser Support
@@ -198,7 +198,7 @@ Potential additions for future iterations:
 
 ## 📄 License
 
-This website is proprietary to East Dallas AI. All content and design are copyrighted.
+This website is proprietary to WhiteRock AI. All content and design are copyrighted.
 
 ## 🤝 Support
 
