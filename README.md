@@ -167,7 +167,7 @@ Edit `styles.css` to change colors:
 - Sunday: Closed
 
 **Get in Touch:**
-- Email: eastdallas.ai@gmail.com
+- Email: sales@whiterock-ai.com
 - Phone: (469) 123-4567
 - Location: East Dallas, Texas
 
